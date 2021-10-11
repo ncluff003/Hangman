@@ -1,0 +1,15 @@
+{
+  "name": "hangman",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "@vue/cli": "^4.5.13",
+    "vite": "^2.6.4",
+    "vue": "^3.2.20"
+  }
+}
