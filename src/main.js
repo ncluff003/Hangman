@@ -1,3 +1,5 @@
+console.log("Hello!");
+
 import { createApp } from "vue";
 import { App } from "./App.vue";
 
